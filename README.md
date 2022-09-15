@@ -5,7 +5,7 @@
   </a> 
   </div>
      <div align="center">
-     <img  style="width: 40%" src="https://cdn.discordapp.com/attachments/515724401598136322/1020001361716322404/poze-mc-poze.gif" />
+     <img  style="width: 40%" src="https://cdn.discordapp.com/attachments/515724401598136322/1020007025880596640/dylan-mackay-kots2-wip2.gif" />
   </div>
 </div>
 
