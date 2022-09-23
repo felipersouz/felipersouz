@@ -1,5 +1,5 @@
 <div>
-  <h2>Hi! Im Felipe Souza 🖐️</h2>
+  <h2>Hi! Im Felipe Souza</h2>
   <a href="https://www.linkedin.com/in/felipe-souza-851588251/" target="_blank">
     <img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
